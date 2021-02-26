@@ -15,7 +15,51 @@ img {
     text-align: center;
 }
 
-h3 {
+.about {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: oblique;
+    color: white;
+    text-align: center;
+}
+
+/*プロフ*/
+
+.Dokuroda_PRF {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: oblique;
+    color: rgb(184, 184, 184);
+    text-align: center;
+}
+
+.Ease_PRF {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: oblique;
+    color: rgb(184, 184, 184);
+    text-align: center;
+}
+
+.Kaname_PRF {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: oblique;
+    color: rgb(184, 184, 184);
+    text-align: center;
+}
+
+.Disnana_PRF {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: oblique;
+    color: rgb(184, 184, 184);
+    text-align: center;
+}
+
+.Hanuou_PRF {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: oblique;
+    color: rgb(184, 184, 184);
+    text-align: center;
+}
+
+.Kanon_PRF {
     font-family: 'Carrois Gothic SC', sans-serif;
     font-style: oblique;
     color: rgb(184, 184, 184);
